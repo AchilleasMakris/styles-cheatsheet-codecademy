@@ -1,4 +1,4 @@
-**`Accounting Company Project`**
+**`Plane CheatSheet Codecademy Project`**
 
 ## Introduction
 
@@ -27,11 +27,11 @@ With the resources available and studies from:
     Youtube videos
     Stack overflow
     Google research
-    SlayingTheDragon
+    
 
 ## Inspiration
 
-    SlayingTheDragon Course Project : https://www.slayingthedragon.io/dashboard/css/introduction
+    Codecademy Project: https://www.codecademy.com/projects/practice/independent-project-html-documentation
 
 ## Status
 
@@ -40,5 +40,5 @@ Project is completed as required.
 ## Author/Contact
 
     M. Achilleas - Initial work
-    Website Preview: https://pricing-dusky.vercel.app/
+   
     
