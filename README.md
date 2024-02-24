@@ -3,9 +3,6 @@
 ## Introduction
 
 In this project, you will create a fictional Accounting Service website. 
-REQUIREMENT
-
-
 
 ## Technologies
 
